@@ -30,7 +30,7 @@
             <title>세부123</title>
             <p>이 메서드를 성공적으로 호출하면 SDK는 미디어 플레이어 캐시 관리자 인스턴스를 반환합니다. 캐시 관리자는 싱글톤 패턴입니다. 따라서 이 메서드를 여러 번 호출하면 동일한 인스턴스가 반환됩니다.</p>
             <note type="attention">
-            <p>이 메서드를 호출하기 전에 초기화되었는지 확인하세요.<xref keyref="IRtcEngine" /></p>
+            <p>이 메서드를 호출하기 전에 초기화되었는지 확인하세요.123<xref keyref="IRtcEngine" /></p>
             </note> </section>
         <section id="return_values">
             <title>보고</title>
