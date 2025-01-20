@@ -2,7 +2,7 @@
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="api_getmediaplayercachemanager">
     <title><ph keyref="getMediaPlayerCacheManager" /></title>
-    <shortdesc id="short"><xref keyref="IMediaPlayerCacheManager" /><ph id="shortdesc"><ph props="apple">test 하나의 인스턴스를 가져옵니다.</ph><ph props="android cpp unreal bp electron rn unity flutter cs"><xref keyref="IMediaPlayerCacheManager" /></ph></ph></shortdesc>
+    <shortdesc id="short"><xref keyref="IMediaPlayerCacheManager" /><ph id="shortdesc"><ph props="apple">test test12</ph><ph props="android cpp unreal bp electron rn unity flutter cs"><xref keyref="IMediaPlayerCacheManager" /></ph></ph></shortdesc>
     <prolog>
         <metadata>
             <keywords>
@@ -13,8 +13,8 @@
     <refbody>
         <section id="prototype">
             <p outputclass="codeblock">
-            <codeblock props="android" outputclass="language-java">공용 추상 IMediaPlayerCacheManager getMediaPlayerCacheManager();</codeblock>
-            <codeblock props="ios mac" outputclass="language-objectivec">- (id&lt;AgoraRtcMediaPlayerCacheManagerProtocol> _Nullable)createMediaPlayerCacheManager;</codeblock>
+            <codeblock props="android" outputclass="language-java">特殊t</codeblock>
+            <codeblock props="ios mac" outputclass="language-objectivec">test43</codeblock>
             <codeblock props="cpp unreal" outputclass="language-cpp">AGORA_API agora::rtc::IMediaPlayerCacheManager* AGORA_CALL getMediaPlayerCacheManager();</codeblock>
             <codeblock props="electron" outputclass="language-typescript">내보내기 함수 getMediaPlayerCacheManager(): IMediaPlayerCacheManager { 새로운 IMediaPlayerCacheManagerImpl()을 반환합니다. }</codeblock>
             <codeblock props="unity cs" outputclass="language-csharp">공용 추상 IMediaPlayerCacheManager GetMediaPlayerCacheManager();</codeblock>
