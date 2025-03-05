@@ -1,0 +1,20 @@
+######src/old/mixins/form_mixin.ts######
+'dla.mixins.form_mixin.unknown_error': '22'
+######src/old/mixins/form_mixin.ts######
+
+######src/old/components/business/sensitive_level_tips/index.vue######
+'dla.app.userdetetail_grid.sensitive_level_tips': '敏感数据等级：'
+'dla.app.obj_doc.sensitive.level.l4': '绝密'
+
+'sa.sase_xdlp.old.form.alone_valid.file_check_fail': '样本文件校验失败，请重新上传'
+'sa.sase_xdlp.old.form.alone_valid.rule_select_one': '规则配置至少选择1个'
+'sa.dla.old.form.alone_valid.select_group': '请选择一个所属组'
+'sa.dla.old.form.alone_valid.select_sensitive_content': '请选择敏感内容'
+
+######src/old/components/global/upload_component/mixins.ts######
+'sa.dla_common.app.import_user_label': '导入用户'
+'dla.app.user_upload_placeholder': 请选择csv格式文档，最大支持20MB，文件名不能含有以下特殊字符：`~!#$%^&*+{};:"',/<>?()\
+'sa.dla_common.app.upload_success': '上传成功'
+'sa.sase_xdlp.old.mixins.error_layer.select_file': 'ma shang xuanze'
+'sa.sase_xdlp.old.mixins.text.submit': '提交'
+######src/old/components/global/upload_component/mixins.ts######
